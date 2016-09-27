@@ -14,7 +14,7 @@ Metagenome sequencing reads
 - Assemble your reads (e.g. Megahit, MetaSPades, IDBA_UD)
   - [Megahit](https://github.com/voutcn/megahit): Fast, but produces highly fragmented assemblies
   - [MetaSpades](http://bioinf.spbau.ru/en/spades): Crashes often with more than one library. Slow
-  - [IDBA_UD](http://i.cs.hku.hk/~alse/hkubrg/projects/idba_ud/): Produces food N50, and has a good running time. The output does not include an assembly graph.
+  - [IDBA_UD](http://i.cs.hku.hk/~alse/hkubrg/projects/idba_ud/): Produces good N50, and has a good running time. The output does not include an assembly graph.
  
 
 ## Step 2 -- Assembly
@@ -63,5 +63,12 @@ Formatted in Markdown - learn more about the syntax [here](https://help.github.c
 
 Learn more about Git and Github from the [Github help pages](https://guides.github.com/activities/hello-world/), and [Symbiosis wiki](https://colab.mpi-bremen.de/molecol/trac/wiki/SymbiosisGroup/BioTools/Git) (internal link)
 
-Suggested workflow: Get a Github account if you don't have one already. Fork this repository and clone it to your local machine. Edit the text, create new pages, insert links, images, etc. Commit those changes. Push changes back to Github. Submit a pull request for Liz to merge your changes with the master version of the repository.
+Suggested workflow: 
+
+- [ ] Get a Github account if you don't have one already. 
+- [ ] Fork this repository and clone it to your local machine. 
+- [ ] Edit the text, create new pages, insert links, images, etc. 
+- [ ] Commit those changes. (Tip: Commit small "chunks" of changes at a time, so that they can be easily undone if necessary, and document your commits with short but descriptive commit messages.)
+- [ ] Push changes back to Github. 
+- [ ] Submit a pull request for Liz to merge your changes with the master version of the repository.
 
