@@ -53,3 +53,15 @@ Check quality control of the assembled genomes (See step 5)
 Optional:
 - Phylogenomic placement
 - ANI (e.g. [Jspecies](http://imedea.uib-csic.es/jspecies/), or [Kostas website](http://enve-omics.gatech.edu/))
+
+
+## About this repository
+
+This repository contains results from metagenome binning roundtable discussion moderated by Liz S on 26 Sep 2016. Sharing it as a Git repository has three aims - (i) make it possible to edit it collaboratively, (ii) for newbies, have some practice using Git and Github for a simple project, and (iii) take advantage of the Markdown formatting to start building a simple webpage that can be used as a reference on metagenome binning.
+
+Formatted in Markdown - learn more about the syntax [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+
+Learn more about Git and Github from the [Github help pages](https://guides.github.com/activities/hello-world/), and [Symbiosis wiki](https://colab.mpi-bremen.de/molecol/trac/wiki/SymbiosisGroup/BioTools/Git) (internal link)
+
+Suggested workflow: Get a Github account if you don't have one already. Fork this repository and clone it to your local machine. Edit the text, create new pages, insert links, images, etc. Commit those changes. Push changes back to Github. Submit a pull request for Liz to merge your changes with the master version of the repository.
+
