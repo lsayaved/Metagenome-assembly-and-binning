@@ -55,6 +55,11 @@ Optional:
 - Phylogenomic placement
 - ANI (e.g. [Jspecies](http://imedea.uib-csic.es/jspecies/), or [Kostas website](http://enve-omics.gatech.edu/))
 
+## Other resources
+
+  - Stephen Turner's blog about genetic tips and other informatic news: http://www.gettinggeneticsdone.com/
+  - Adrien's blog on his rambling about bioinformatic, include tutorials and scripts examples: http://aassie.net/Pro/
+  - Nature computational biology journal collection of fundamental paper exaplaining computational concept (eg. Bayesian statistic, Debruijn graph, etc...): http://www.nature.com/nbt/collections/compbio/index.html
 
 ## About this repository
 
